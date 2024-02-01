@@ -1,0 +1,29 @@
+header{
+    color:darkgray;
+    background-color: darkslategray;
+    font-family: serif,"Book Antiqua";
+    letter-spacing: 0.3cm;
+}    /* only to header*/
+nav{
+    padding: 20px;
+    margin: 3px;
+
+}
+nav li{
+    float:left;
+
+}
+nav ul{
+    list-style-type: none;
+    overflow: visible;
+}
+nav li a{
+    display: block;
+    padding: 10px;
+    background-color: lightskyblue;
+    text-decoration: none;
+    text-align: center;
+}
+nav li a:hover{   /*if mouse over - change color*/
+    background-color: aqua;
+}
