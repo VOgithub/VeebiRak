@@ -41,10 +41,10 @@ main section{
     border-radius: 120px;
     padding:2%;
     width:30%;
- 
+
 }
 section #teine{   <--individual_stile_for_section_teine-->
-    position:absolute;
+position:absolute;
     left:600px;
     top:120px;
 
